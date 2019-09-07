@@ -1,4 +1,6 @@
-# SVM-Titanic-Machine-Learning
+# RandomForest-Titanic-Machine-Learning
+
+https://kaggle.com/c/titanic
 
 ## Preparing dataset ##
 we are have big database that don't know the data looks like. to resolve the issue,
